@@ -8,7 +8,8 @@ Keynote: https://www.dropbox.com/s/jfc1d7qmpdail5u/jnuc2019-bradtchapman-2019111
 Slides: https://www.dropbox.com/s/99yb50ktkndxi3i/jnuc2019-bradtchapman-20191112.pdf
 
 JAMF RUNNER — theatrical cut: https://www.dropbox.com/s/jg51kf2a3a0wjqc/intro.mp4   
-JAMF RUNNER — director's cut: https://www.dropbox.com/s/utb9vpq2298amwz/intro-extended.mp4   
+JAMF RUNNER — director's cut: https://www.dropbox.com/s/xnnpi1jneldf01o/intro-extended.mp4   
+
 
 PRESENTATION RECORDING @ JAMF.COM: TBA
 
